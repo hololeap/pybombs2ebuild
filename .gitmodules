@@ -1,0 +1,3 @@
+[submodule "gr-recipes"]
+	path = gr-recipes
+	url = https://github.com/gnuradio/gr-recipes
